@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AIViewer</string>
+    <string name="action_go">Go</string>
+    <string name="ask_gemini_about_your_photo">Ask Gemini about your photo</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Provide a Platonian philosophical analysis of the image</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+</resources>
